@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.iris-bered {
+    color: #00FFC9;	
+}
+
+.lekkergroen{}
+
+
+.mybg {
+    background-image: url(../images/achtergrond.jpg);
+    background-repeat: repeat;
+}
+
